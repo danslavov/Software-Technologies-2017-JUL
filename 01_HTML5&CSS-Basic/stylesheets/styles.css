@@ -1,0 +1,43 @@
+#blue {
+    color: blue;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+}
+
+#border0 {
+    border: 4px solid green;
+    border-radius: 5px;
+    padding: 25px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#border1 {
+    border: 2px dashed red;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+#border2 {
+    border: 10px dotted blue;
+    border-radius: 40px;
+    padding: 25px;
+}
+
+p.problem10 {
+    font-size: xx-large;
+    background-color: #d5d5d5;
+    text-align: center;
+    border: 4px solid;
+    border-radius: 7px;
+}
+
+ol {
+    font-size: larger;
+}
